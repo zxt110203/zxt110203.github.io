@@ -6,7 +6,7 @@ const textConfig = {
   text5: "Adorable yet prankish",
   text6: "The cutest pieeee <3",
   text7: "Then what is the most adorable moment of him?",
-  text8: "Love him this this much <3",
+  text8: "Love him this muchhhh <3",
   text9: "His existence is blessed by cuteness omg!!!!",
   text10: "I know ^^ Zhang XingTe love you 3000",
   text11:
